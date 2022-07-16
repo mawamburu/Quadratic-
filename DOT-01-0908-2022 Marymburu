@@ -1,0 +1,16 @@
+// A program that computes a Quadratic equation 
+#include <stdio.h>
+#include <math.h>
+
+int main ()
+{
+    float a,b,c, discriminant,x1,x2,r,1;
+    printf ("coefficient of x^2:");
+    scanf ("%f", &a);
+    printf ("coefficient of x:");
+    scanf ("%f", &b);
+    printf ("constant term :");
+    scanf ("%f",&c);
+}
+return 0;
+}
